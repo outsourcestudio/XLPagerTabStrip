@@ -16,16 +16,16 @@
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s7f-rk-sQl">
-                        <rect key="frame" x="43" y="11.5" width="37.5" height="17"/>
+                        <rect key="frame" x="28" y="11.5" width="37.5" height="17"/>
                         <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="tFG-yJ-6Th">
-                        <rect key="frame" x="4" y="2.5" width="35" height="35"/>
+                        <rect key="frame" x="4" y="10" width="20" height="20"/>
                         <constraints>
-                            <constraint firstAttribute="width" constant="35" id="VRw-5F-5WY"/>
-                            <constraint firstAttribute="height" constant="35" id="ojk-Ug-Lgh"/>
+                            <constraint firstAttribute="width" constant="20" id="VRw-5F-5WY"/>
+                            <constraint firstAttribute="height" constant="20" id="ojk-Ug-Lgh"/>
                         </constraints>
                     </imageView>
                 </subviews>
